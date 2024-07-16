@@ -4,7 +4,7 @@ This repository contains the implementation of an Intrusion Detection System (ID
 
 ## Repository Structure
 
-The repository is organized into two main folders: `KDD99` and `NSL-KDD`. Each folder contains scripts for preprocessing, feature selection, and model training.
+The repository is organized into two main folders: `Model training for KDD99 dataset` and `Model training for NSL-KDD dataset `. Each folder contains scripts for preprocessing, feature selection, and model training.
 
 ### KDD99 Folder
 
