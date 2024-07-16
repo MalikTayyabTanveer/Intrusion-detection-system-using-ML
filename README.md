@@ -52,7 +52,7 @@ The repository is organized into two main folders: `Model training for KDD99 dat
 1. Clone the repository:
     ```bash
     git clone https://github.com/MalikTayyabTanveer/Intrusion-detection-system-using-ML.git
-    cd ids_ml
+    cd Intrusion-detection-system-using-ML
     ```
 
 ## Results
