@@ -9,43 +9,43 @@ The repository is organized into two main folders: `KDD99` and `NSL-KDD`. Each f
 ### KDD99 Folder
 
 1. **Preprocessing**:
-    - `preprocessing.py`: Handles data cleaning by removing null values and checking for duplicates.
-    - `smote.py`: Uses the SMOTE (Synthetic Minority Over-sampling Technique) to balance the dataset.
+    - `preprocessing.ipynb`: Handles data cleaning by removing null values and checking for duplicates.
+    - `SMOTE_imbalance_learning.ipynb`: Uses the SMOTE (Synthetic Minority Over-sampling Technique) to balance the dataset.
 
 2. **Feature Selection**:
-    - `chi2_feature_selection_5.py`: Selects the top 5 features using the Chi-squared test.
-    - `chi2_feature_selection_10.py`: Selects the top 10 features using the Chi-squared test.
-    - `chi2_feature_selection_15.py`: Selects the top 15 features using the Chi-squared test.
+    - `chi2_feature_selection_5.ipynb`: Selects the top 5 features using the Chi-squared test.
+    - `chi2_feature_selection_10.ipynb`: Selects the top 10 features using the Chi-squared test.
+    - `chi2_feature_selection_15.ipynb`: Selects the top 15 features using the Chi-squared test.
 
 3. **Model Training with Random Forest**:
-    - `random_forest_5_features.py`: Trains a Random Forest model using the top 5 selected features.
-    - `random_forest_10_features.py`: Trains a Random Forest model using the top 10 selected features.
-    - `random_forest_15_features.py`: Trains a Random Forest model using the top 15 selected features.
+    - `random_forest_5_features.ipynb`: Trains a Random Forest model using the top 5 selected features.
+    - `random_forest_10_features.ipynb`: Trains a Random Forest model using the top 10 selected features.
+    - `random_forest_15_features.ipynb`: Trains a Random Forest model using the top 15 selected features.
 
 4. **Model Training with Naive Bayes**:
-    - `naive_bayes_5_features.py`: Trains a Naive Bayes model using the top 5 selected features.
-    - `naive_bayes_10_features.py`: Trains a Naive Bayes model using the top 10 selected features.
-    - `naive_bayes_15_features.py`: Trains a Naive Bayes model using the top 15 selected features.
+    - `naive_bayes_5_features.ipynb`: Trains a Naive Bayes model using the top 5 selected features.
+    - `naive_bayes_10_features.ipynb`: Trains a Naive Bayes model using the top 10 selected features.
+    - `naive_bayes_15_features.ipynb`: Trains a Naive Bayes model using the top 15 selected features.
 
 ### NSL-KDD Folder
 
 1. **Preprocessing**:
-    - `preprocessing.py`: Handles data cleaning by removing null values and checking for duplicates.
+    - `preprocessing.ipynb`: Handles data cleaning by removing null values and checking for duplicates.
 
 2. **Feature Selection**:
-    - `chi2_feature_selection_5.py`: Selects the top 5 features using the Chi-squared test.
-    - `chi2_feature_selection_10.py`: Selects the top 10 features using the Chi-squared test.
-    - `chi2_feature_selection_15.py`: Selects the top 15 features using the Chi-squared test.
+    - `chi2_feature_selection_5.ipynb`: Selects the top 5 features using the Chi-squared test.
+    - `chi2_feature_selection_10.ipynb`: Selects the top 10 features using the Chi-squared test.
+    - `chi2_feature_selection_15.ipynb`: Selects the top 15 features using the Chi-squared test.
 
 3. **Model Training with Random Forest**:
-    - `random_forest_5_features.py`: Trains a Random Forest model using the top 5 selected features.
-    - `random_forest_10_features.py`: Trains a Random Forest model using the top 10 selected features.
-    - `random_forest_15_features.py`: Trains a Random Forest model using the top 15 selected features.
+    - `random_forest_5_features.ipynb`: Trains a Random Forest model using the top 5 selected features.
+    - `random_forest_10_features.ipynb`: Trains a Random Forest model using the top 10 selected features.
+    - `random_forest_15_features.ipynb`: Trains a Random Forest model using the top 15 selected features.
 
 4. **Model Training with Naive Bayes**:
-    - `naive_bayes_5_features.py`: Trains a Naive Bayes model using the top 5 selected features.
-    - `naive_bayes_10_features.py`: Trains a Naive Bayes model using the top 10 selected features.
-    - `naive_bayes_15_features.py`: Trains a Naive Bayes model using the top 15 selected features.
+    - `naive_bayes_5_features.ipynb`: Trains a Naive Bayes model using the top 5 selected features.
+    - `naive_bayes_10_features.ipynb`: Trains a Naive Bayes model using the top 10 selected features.
+    - `naive_bayes_15_features.ipynb`: Trains a Naive Bayes model using the top 15 selected features.
 
 ## Installation
 
