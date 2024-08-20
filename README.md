@@ -86,7 +86,7 @@ The repository is organized into two main folders: `Model training for KDD99 dat
     - Accuracy: 0.52
 
 ## Contributors
-- **[Tayyab Tanveer]([https://www.linkedin.com/in/tayyab-tanveer](https://www.linkedin.com/in/tayyab-tanveer-b000282b3)** - Lead Developer
+- **[Tayyab Tanveer](https://www.linkedin.com/in/tayyab-tanveer](https://www.linkedin.com/in/tayyab-tanveer-b000282b3)** - Lead Developer
 - **[Syed Ashar Riaz](https://www.linkedin.com/in/ashar-riaz-46596123b)** - Lead Developer
 
 ## License
